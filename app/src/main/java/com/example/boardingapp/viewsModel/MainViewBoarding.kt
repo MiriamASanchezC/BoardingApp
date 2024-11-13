@@ -10,7 +10,7 @@ class MainViewBoarding {
     init {
         items.add(
             PageData(
-                R.raw.page1, "Titulo 1", "Descripcion 1"
+                R.raw.page3, "Titulo 1", "Descripcion 1"
             )
         )
     }
@@ -24,7 +24,7 @@ class MainViewBoarding {
     init {
         items.add(
             PageData(
-                R.raw.page3, "Titulo 3", "Descripcion 3"
+                R.raw.page1, "Titulo 3", "Descripcion 3"
             )
         )
         //hola 1
